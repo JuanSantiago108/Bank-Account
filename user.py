@@ -1,4 +1,4 @@
-# declare a class and give it name User
+# # declare a class and give it name User
 # class User:	
 #     bank_name = "First National Dojo"	
 #     def __init__(self ):
